@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Diapo
+GenericName=Photo Viewer
+Comment=View, edit and compress photos
+Exec=diapo %f
+Icon=diapo
+Terminal=false
+Categories=Graphics;Viewer;Photography;
+StartupWMClass=diapo
+MimeType=image/jpeg;image/png;image/gif;image/webp;image/avif;image/heic;image/heif;image/jxl;image/tiff;image/bmp;image/svg+xml;image/x-icon;image/vnd.microsoft.icon;image/x-tga;image/x-portable-pixmap;image/x-portable-graymap;image/x-portable-bitmap;image/x-canon-cr2;image/x-canon-cr3;image/x-nikon-nef;image/x-sony-arw;image/x-adobe-dng;image/x-fuji-raf;image/x-olympus-orf;image/x-panasonic-rw2;image/x-pentax-pef;image/x-samsung-srw;

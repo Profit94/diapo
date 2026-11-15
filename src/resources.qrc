@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="PhotoView.qml">PhotoView.qml</file>
+        <file alias="EditView.qml">EditView.qml</file>
+        <file alias="CompressView.qml">CompressView.qml</file>
+        <file alias="SaveDialog.qml">SaveDialog.qml</file>
+        <file alias="ShortcutsPopup.qml">ShortcutsPopup.qml</file>
+        <file alias="AskDialog.qml">AskDialog.qml</file>
+        <file alias="TopBar.qml">TopBar.qml</file>
+        <file alias="BarLine.qml">BarLine.qml</file>
+        <file alias="Glyph.qml">Glyph.qml</file>
+        <file alias="IconButton.qml">IconButton.qml</file>
+        <file alias="PlainButton.qml">PlainButton.qml</file>
+        <file alias="Chip.qml">Chip.qml</file>
+        <file alias="ChipGrid.qml">ChipGrid.qml</file>
+        <file alias="Segmented.qml">Segmented.qml</file>
+        <file alias="Heading.qml">Heading.qml</file>
+        <file alias="SliderRow.qml">SliderRow.qml</file>
+        <file alias="CheckRow.qml">CheckRow.qml</file>
+        <file alias="looks.json">looks.json</file>
+        <file alias="diapo.svg">../share/diapo.svg</file>
+        <file alias="i18n/en.json">i18n/en.json</file>
+    </qresource>
+</RCC>

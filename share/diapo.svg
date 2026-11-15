@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 64 64">
+  <title>Diapo</title>
+  <desc>One sun shown in two looks, daylight colour on the left and silver on the right, with the compare line between them, on a rounded tile with one hard shadow.</desc>
+  <rect x="8" y="11" width="48" height="48" rx="10" fill="#0d1218"/>
+  <path d="M18 8H32V56H18Q8 56 8 46V18Q8 8 18 8Z" fill="#7aa7e6"/>
+  <path d="M32 8H46Q56 8 56 18V46Q56 56 46 56H32Z" fill="#27314d"/>
+  <path d="M32 19A13 13 0 0 0 32 45Z" fill="#f6c95f"/>
+  <path d="M32 19A13 13 0 0 1 32 45Z" fill="#d9dbe0"/>
+  <rect x="31" y="4" width="2" height="56" rx="1" fill="#fdfdfe"/>
+</svg>
