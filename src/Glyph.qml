@@ -59,6 +59,8 @@ Item {
         case "open": return "M14 4h6v6M20 4l-9 9M18 14v6H4V6h6"
         case "trash": return "M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13"
         case "check": return "M5 12l5 5 9-10"
+        // A frame with a hill and the sun, for where a photo will be.
+        case "picture": return "M3 5h18v14H3zM3 16l5-5 4 4 3-3 6 6" + circle(16, 9, 1.5)
         // The command loop, the usual mark for keyboard shortcuts: a square
         // with a ring at each corner, drawn in one stroke like the others.
         case "keyboard": return "M9 9h6v6H9z"
