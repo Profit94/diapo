@@ -5,7 +5,7 @@
 <h1 align="center">Diapo</h1>
 
 <p align="center">
-  <b>A photo viewer for <a href="https://omarchy.org">Omarchy</a>.</b><br>
+  <b>A photo viewer made for <a href="https://omarchy.org">Omarchy</a>.</b><br>
   One quiet window that opens every photo format, with film looks, an editor and a compressor.
 </p>
 
@@ -13,9 +13,10 @@
   <img src="docs/demo.gif" width="100%" alt="Diapo stepping through photos, editing, applying a film look and compressing">
 </p>
 
-Diapo follows the Omarchy theme, corner rounding and language live, and opens
-floating over the Files window you clicked the photo in, rather than as a tile
-of its own. Drag it by its title to slide it aside.
+Diapo is an independent app I built to give Omarchy a better-looking photo
+viewer that fits right in. It follows the Omarchy theme, corner rounding and
+language live, and opens floating over the Files window you clicked the photo
+in, rather than as a tile of its own. Drag it by its title to slide it aside.
 
 - **View** JPEG, PNG, WebP, GIF, AVIF, HEIC, JPEG XL, TIFF, SVG, BMP, ICO, TGA
   and camera RAW (CR2, CR3, NEF, ARW, DNG, RAF, ORF, RW2 and more).
@@ -113,8 +114,12 @@ Each exits 0, or 1 with the reason on stderr.
 
 Diapo is free to install and use, and pull requests are welcome, but it is not
 open source: you may not copy, redistribute or reuse its code, icon, looks or
-visual design. See [LICENSE](LICENSE). Parts that come from Omarchy's own apps
-keep their MIT license, as listed there.
+visual design. See [LICENSE](LICENSE).
+
+Diapo is not an official Omarchy project. A few small helper files (theme and
+language following, the file picker and the build scripts) are adapted from
+Omarchy's open-source apps, and their MIT notice is kept in LICENSE as that
+license requires.
 
 Demo photos from Unsplash: Claudio Fonte, John Fowler, Dominik Dombrowski and
 Oziel Gómez.
